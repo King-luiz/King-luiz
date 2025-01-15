@@ -14,3 +14,4 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?King-luiz=DenverCoder1)](https://git.io/streak-stats)
