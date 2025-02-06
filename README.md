@@ -1,9 +1,9 @@
 # 💫 About Me:
-- 👋 Hi, I’m @King-luiz<br>- 👀 I’m interested in Wed Development, Cybersecurity, and Artificial Intelligence.<br>-
--  🌱 I’m currently learning full-stack development and expanding my knowledge in network security.<br>-
+- 👋 Hi, I’m @King-luiz<br>- 👀 I’m interested in Wed Development, Cybersecurity, and Artificial Intelligence.<br>
+-  🌱 I’m currently learning full-stack development and expanding my knowledge in network security.<br>
 -  💞️ "I’m looking to collaborate on innovative web development projects, particularly those involving responsive design, front-end development (HTML, CSS, JavaScript ), and back-end technologies .<br>
 -   I'm also open to contributing to open-source projects, creating custom websites or web applications, and working on projects involving full-stack development,"<br>-
--  📫 How to reach me :<br>-  contact at: +254-112-876-340<br>-
+-  📫 How to reach me :<br>-  contact at: +254-112-876-340<br>
 -  😄 Pronouns: He/Him🤣😂<br>- ⚡ Fun fact:  I’m a huge fan of hacking simulations and love learning about ethical hacking techniques!<br>
 
 
