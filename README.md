@@ -1,36 +1,99 @@
-# 💫 About Me:
+<h1 align="center">Hey, I'm Lewins Luiz 👋</h1>
+<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | AI Explorer</h3>
+
+<p align="center">
+📍 Nairobi, Kenya 🇰🇪 <br>
+💻 Building scalable web applications & exploring secure systems
+</p>
+
+---
+
+## 🚀 About Me
+
 - 👋 Hi, I’m **@King-luiz**  
-- 👀 I’m interested in **Web Development, Cybersecurity, and Artificial Intelligence.**  
-- 🌱 I’m currently learning **full-stack development** and expanding my knowledge in **network security.**  
-- 💞️ I’m looking to collaborate on **innovative web development projects,** particularly those involving:  
-   - Responsive design  
-   - Front-end development (HTML, CSS, JavaScript)  
-   - Back-end technologies  
-- 🌍 I’m also open to contributing to **open-source projects,** creating custom websites/web applications, and full-stack projects.  
-- 📫 How to reach me: **+254-112-876-340**  
+- 👀 I’m interested in **Web Development, Cybersecurity, and Artificial Intelligence**  
+- 🌱 Currently learning **Full-Stack Development** & **Network Security**  
+- 💞️ Open to collaborating on:
+  - Responsive Design  
+  - Frontend (HTML, CSS, JavaScript)  
+  - Backend Development  
+- 🌍 Also interested in **Open Source, Custom Websites & Full-Stack Projects**  
+- 📫 Reach me: **+254-112-876-340**  
 - 😄 Pronouns: **He/Him 🤣😂**  
-- ⚡ Fun fact: I’m a huge fan of **hacking simulations** and love learning about **ethical hacking techniques!**  
+- ⚡ Fun fact: I love **hacking simulations & ethical hacking**  
 
 ---
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Lewins_luiz) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewins-mureithi/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@code_with_luiz) 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/990435451334688768/1181322427666542622) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@code_with_luiz?_t=ZM-8zVTFP2YaDW&_r=1)
----
+## 🌐 Connect With Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=King-luiz&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=King-luiz&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=King-luiz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+<p align="center">
+<a href="https://x.com/Lewins_luiz"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lewins-mureithi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.youtube.com/@code_with_luiz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://discord.com/channels/990435451334688768/1181322427666542622"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://www.tiktok.com/@code_with_luiz"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+</p>
 
 ---
 
-⭐️ From [King-luiz](https://github.com/King-luiz)
+## 🛠 Tech Stack
+
+### 💻 Languages & Frameworks
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### 🌐 Web & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+### ⚙️ Dev & Design Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=flat&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=King-luiz&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=King-luiz&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-luiz&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=King-luiz&theme=tokyo-night"/>
+
+---
+
+## ⚡ Developer Quote
+
+> “Code. Secure. Scale. Repeat.” 🚀
+
+---
+
+<p align="center">
+⭐️ From <a href="https://github.com/King-luiz">King-luiz</a>
+</p>
