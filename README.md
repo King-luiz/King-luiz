@@ -11,6 +11,18 @@
 
 ---
 
+## 🎖️ Contribution Grade & Achievements
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Developer%20Grade-A%2B%20Rank-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Developer Grade"/>
+  <br><br>
+  
+  <!-- GitHub Trophy - Shows rank based on contributions -->
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=King-luiz&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true)
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 Hi, I'm **Lewins Mureithi (King-luiz)** — a passionate Full-Stack Developer, UI/UX Designer, and IT student from Nairobi, Kenya.  
