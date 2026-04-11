@@ -6,7 +6,7 @@ from datetime import datetime
 def get_grade_color(grade):
     """Return color code based on grade"""
     colors = {
-        "A+": "FFD700",  # Gold
+        "A+": "00FFAA",  # Bright Green
         "A": "FFA500",   # Orange
         "B+": "90EE90",  # Light Green
         "B": "87CEEB",   # Sky Blue
@@ -16,13 +16,23 @@ def get_grade_color(grade):
     }
     return colors.get(grade, "CCCCCC")
 
+def create_circular_svg(grade, color):
+    """Create circular SVG badge"""
+    svg = f'''<svg width="180" height="180" xmlns="http://www.w3.org/2000/svg" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));">
+      <!-- Background circle -->
+      <circle cx="90" cy="90" r="85" fill="#1a1a2e" stroke="#{color}" stroke-width="3"/>
+      <!-- Grade text -->
+      <text x="90" y="115" font-size="72" font-weight="bold" text-anchor="middle" fill="#{color}" font-family="Arial, sans-serif">{grade}</text>
+    </svg>'''
+    return svg
+
 def create_grade_badge(grade, score):
     """Create a badge URL"""
     color = get_grade_color(grade)
     label = f"Contribution%20Grade"
-    message = f"{grade}%20%7C%20{score}%25"
+    message = f"{grade}%20%7C%20High" if score >= 70 else f"{grade}%20%7C%20Medium" if score >= 50 else f"{grade}%20%7C%20Low"
     
-    badge_url = f"https://img.shields.io/badge/{label}-{message}-{color}?style=for-the-badge&logo=github&logoColor=white"
+    badge_url = f"https://img.shields.io/badge/{label}-{message}-{color}?style=for-the-badge&logo=github&logoColor=black"
     return badge_url
 
 def update_readme(grade, score):
@@ -35,18 +45,24 @@ def update_readme(grade, score):
         print("Error: README.md not found")
         return False
     
+    color = get_grade_color(grade)
+    svg_badge = create_circular_svg(grade, color)
     badge_url = create_grade_badge(grade, score)
-    new_badge = f'  <img src="{badge_url}" alt="Contribution Grade: {grade}"/>'
     
-    # Pattern to match existing grade badge
-    pattern = r'<img src="https://img\.shields\.io/badge/Contribution%20Grade[^"]*" alt="Contribution Grade:[^"]*"/>'
+    # Pattern to match existing SVG circle
+    svg_pattern = r'<svg width="180" height="180"[^>]*>.*?</svg>'
     
-    if re.search(pattern, content):
-        # Replace existing badge
-        content = re.sub(pattern, new_badge.strip(), content)
-        print("✅ Updated existing grade badge")
-    else:
-        print("⚠️  No existing badge found, adding new one")
+    if re.search(svg_pattern, content, re.DOTALL):
+        content = re.sub(svg_pattern, svg_badge, content, flags=re.DOTALL)
+        print("✅ Updated circular SVG badge")
+    
+    # Pattern to match existing text badge
+    badge_pattern = r'<img src="https://img\.shields\.io/badge/Contribution%20Grade[^"]*" alt="Contribution Grade:[^"]*"/>'
+    
+    if re.search(badge_pattern, content):
+        new_badge = f'<img src="{badge_url}" alt="Contribution Grade: {grade}"/>'
+        content = re.sub(badge_pattern, new_badge, content)
+        print("✅ Updated text badge")
     
     # Write updated content
     try:
