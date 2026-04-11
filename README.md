@@ -16,11 +16,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Contribution%20Grade-D%20%7C%2045.94%25-FF6347?style=for-the-badge&logo=github&logoColor=white" alt="Contribution Grade: D"/>
   <br><br>
-  <img src="https://img.shields.io/badge/Contribution%20Grade-D%20%7C%2045.94%25-FF6347?style=for-the-badge&logo=github&logoColor=white" alt="Contribution Grade: D"/>
-  <br><br>
   
   <!-- GitHub Trophy -->
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=King-luiz&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true)
+ <!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=King-luiz&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true)-->
 </div>
 
 ---
