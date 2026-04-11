@@ -77,6 +77,9 @@ I love crafting scalable web applications, exploring network security, and divin
 
 ## 📊 GitHub Stats
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=King-luiz&theme=radical&hide_border=false" />
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=King-luiz&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api?username=King-luiz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
@@ -122,12 +125,6 @@ I love crafting scalable web applications, exploring network security, and divin
 📱 **Phone/WhatsApp:** +254-112-876-340  
 
 ---
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=King-luiz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=King-luiz&theme=radical&hide_border=false" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=King-luiz&theme=radical&hide_border=false&layout=compact" />
-
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=King-luiz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
