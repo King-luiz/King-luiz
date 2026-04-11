@@ -14,7 +14,7 @@
 ## 🎖️ Contribution Grade & Achievements
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Developer%20Grade-A%2B%20Rank-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Developer Grade"/>
+  <img src="https://img.shields.io/badge/Contribution%20Grade-D%20%7C%2045.94%25-FF6347?style=for-the-badge&logo=github&logoColor=white" alt="Contribution Grade: D"/>
   <br><br>
   
   <!-- GitHub Trophy -->
