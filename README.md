@@ -73,6 +73,13 @@ I love crafting scalable web applications, exploring network security, and divin
 
 ---
 
+## 🏆 Most Used Languages
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=King-luiz&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=King-luiz&theme=tokyonight)
+
+
 ## 📊 GitHub Stats & Activity
 
 
