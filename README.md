@@ -77,29 +77,39 @@ I love crafting scalable web applications, exploring network security, and divin
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=King-luiz&theme=radical&hide_border=false" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=King-luiz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=King-luiz&theme=tokyonight&hide_border=true" height="170"/>
+</div>
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=King-luiz&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api?username=King-luiz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=King-luiz&theme=tokyonight"/>
+</div>
 
 ---
-
 ## 🏆 Most Used Languages
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=King-luiz&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=King-luiz&theme=tokyonight)
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=King-luiz&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=King-luiz&theme=tokyonight" height="180"/>
+</div>
 ---
 
 ## 📈 Contribution Summary
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=King-luiz&theme=tokyo-night)
+## 📈 Contribution Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=King-luiz&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=King-luiz&theme=tokyo-night"/>
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=King-luiz&theme=tokyonight&utcOffset=3)
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=King-luiz&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=King-luiz&theme=tokyonight&utcOffset=3" height="180"/>
+</div>
+
 ---
 
 ## 🏆 GitHub Achievements
