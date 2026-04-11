@@ -75,38 +75,27 @@ I love crafting scalable web applications, exploring network security, and divin
 
 
 
+## 📊 GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=King-luiz&theme=tokyonight)
+
+---
+
 ## 🏆 Most Used Languages
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=King-luiz&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=King-luiz&theme=tokyonight)
 
+---
 
-## 📊 GitHub Stats & Activity
+## 📈 Contribution Summary
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=King-luiz&theme=tokyonight)
+![](https://github-readme-activity-graph.vercel.app/graph?username=King-luiz&theme=tokyo-night)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=King-luiz&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=King-luiz&theme=tokyonight&utcOffset=3)
-
----
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=King-luiz&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=King-luiz&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=King-luiz&theme=tokyonight)
-
-
-## 📈 Contribution Summary
-
-- **Total Commits (2025):** 743+  
-- **Public Repositories:** 10+  
-- **Stars Earned:** Earning my first ⭐  
-- **Pull Requests:** Active contributor  
-- **Issues Opened:** Learning and growing  
-
-> 💡 *Based on your GitHub activity from the last year*
-
 ---
 
 ## 🏆 GitHub Achievements
