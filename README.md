@@ -79,6 +79,7 @@ I love crafting scalable web applications, exploring network security, and divin
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=King-luiz&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=King-luiz&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=King-luiz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 </div>
 
 <br>
