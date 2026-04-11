@@ -97,8 +97,6 @@ I love crafting scalable web applications, exploring network security, and divin
 
 ## 📈 Contribution Summary
 
-## 📈 Contribution Summary
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=King-luiz&theme=tokyo-night"/>
 </div>
