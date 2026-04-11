@@ -74,18 +74,18 @@ I love crafting scalable web applications, exploring network security, and divin
 ---
 
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=King-luiz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=King-luiz&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=King-luiz&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=King-luiz&theme=tokyonight"/>
-</div>
+<br>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Developer%20Rank-Active%20Builder-00C853?style=for-the-badge"/>
+</div>
 ---
 ## 🏆 Most Used Languages
 
