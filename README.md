@@ -78,6 +78,7 @@ I love crafting scalable web applications, exploring network security, and divin
 ## 📊 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=King-luiz&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=King-luiz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 ---
 
