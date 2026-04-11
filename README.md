@@ -75,14 +75,12 @@ I love crafting scalable web applications, exploring network security, and divin
 
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=King-luiz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=King-luiz&theme=radical&hide_border=false" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-luiz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" />
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=King-luiz&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=King-luiz&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=King-luiz&theme=tokyonight&utcOffset=3)
 
 ---
 
