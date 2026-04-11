@@ -11,19 +11,22 @@
 
 ---
 
-## 🎖️ Contribution Grade & Achievements
-<!--
-<div align="center">
-  <img src="https://img.shields.io/badge/Contribution%20Grade-D%20%7C%2046.02%25-FF6347?style=for-the-badge&logo=github&logoColor=white" alt="Contribution Grade: D"/>
-  <br><br>
-  -->
+  ## 🎖️ Contribution Grade & Achievements
 
-  <div align="center">
-  <img src="https://img.shields.io/badge/GRADE-A%2B-brightgreen?style=flat-square&logo=github&logoColor=white&labelColor=1f6feb&color=30a14e" alt="Grade"/>
-</div>
+<div align="center">
+  <!-- Circular Grade Badge -->
+  <div style="display: inline-block; position: relative;">
+    <svg width="180" height="180" xmlns="http://www.w3.org/2000/svg" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));">
+      <!-- Background circle -->
+      <circle cx="90" cy="90" r="85" fill="#1a1a2e" stroke="#00FFAA" stroke-width="3"/>
+      <!-- Grade text -->
+      <text x="90" y="115" font-size="72" font-weight="bold" text-anchor="middle" fill="#00FFAA" font-family="Arial, sans-serif">A+</text>
+    </svg>
+  </div>
   
+  <br>
+  <img src="https://img.shields.io/badge/Contribution%20Grade-A%2B%20%7C%20High-00FFAA?style=for-the-badge&logo=github&logoColor=black" alt="Contribution Grade: A+"/>
   <!-- GitHub Trophy -->
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=King-luiz&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true)
 </div>
   
   <!-- GitHub Trophy -->
