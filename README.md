@@ -17,14 +17,10 @@
   <img src="https://img.shields.io/badge/Contribution%20Grade-D%20%7C%2046.02%25-FF6347?style=for-the-badge&logo=github&logoColor=white" alt="Contribution Grade: D"/>
   <br><br>
   -->
-<div align="center">
-  <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-    <!-- Circle background -->
-    <circle cx="100" cy="100" r="90" fill="none" stroke="#30a14e" stroke-width="8"/>
-    <!-- Grade text -->
-    <text x="100" y="120" font-size="60" font-weight="bold" text-anchor="middle" fill="#30a14e">A+</text>
-  </svg>
-  <br><br>
+
+  <div align="center">
+  <img src="https://img.shields.io/badge/GRADE-A%2B-brightgreen?style=flat-square&logo=github&logoColor=white&labelColor=1f6feb&color=30a14e" alt="Grade"/>
+</div>
   
   <!-- GitHub Trophy -->
   ![Trophy](https://github-profile-trophy.vercel.app/?username=King-luiz&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true)
