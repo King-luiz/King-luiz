@@ -77,9 +77,7 @@ I love crafting scalable web applications, exploring network security, and divin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=King-luiz&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=King-luiz&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=King-luiz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 </div>
 
 <br>
@@ -96,6 +94,7 @@ I love crafting scalable web applications, exploring network security, and divin
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=King-luiz&theme=tokyonight" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=King-luiz&theme=tokyonight" height="180"/>
 </div>
+
 ---
 
 ## 📈 Contribution Summary
