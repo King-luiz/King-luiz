@@ -11,28 +11,12 @@
 
 ---
 
-  ## 🎖️ Contribution Grade & Achievements
-
-<div align="center">
-  <!-- Circular Grade Badge -->
-  <div style="display: inline-block; position: relative;">
-    <svg width="180" height="180" xmlns="http://www.w3.org/2000/svg" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));">
-      <!-- Background circle -->
-      <circle cx="90" cy="90" r="85" fill="#1a1a2e" stroke="#FF6347" stroke-width="3"/>
-      <!-- Grade text -->
-      <text x="90" y="115" font-size="72" font-weight="bold" text-anchor="middle" fill="#FF6347" font-family="Arial, sans-serif">D</text>
-    </svg>
-  </div>
-  
-  <br>
-  <img src="https://img.shields.io/badge/Contribution%20Grade-D%20%7C%20Low-FF6347?style=for-the-badge&logo=github&logoColor=black" alt="Contribution Grade: D"/>
-  <!-- GitHub Trophy -->
-</div>
+ <!-- ## 🎖️ Contribution Grade & Achievements-->
   
   <!-- GitHub Trophy -->
- <!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=King-luiz&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true)-->
+ <!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=King-luiz&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true)--
 </div>
-
+-->
 ---
 
 ## 👨‍💻 About Me
