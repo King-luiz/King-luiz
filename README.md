@@ -158,7 +158,7 @@ I love crafting scalable web applications, exploring network security, and divin
   
 **Feel free to reach out for collaborations, freelance projects, or just to chat!**
 
-📧 **Email:** [lewinsmureithi@gmail.com](mailto:lewinsmureithi@gmail.com)  
+📧 **Email:** [mureithilewins@gmail.com](mailto:mureithilewins@gmail.com)  
 🌍 **Portfolio:** [king-luiz.github.io/Current-Portfolio](https://king-luiz.github.io/Current-Portfolio)  
 📱 **Phone/WhatsApp:** +254-112-876-340  
 💼 **LinkedIn:** [lewins-mureithi](https://www.linkedin.com/in/lewins-mureithi/)  
