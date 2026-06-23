@@ -29,7 +29,7 @@ I love crafting scalable web applications, exploring network security, and divin
 - 👯 I'm looking to collaborate on: **Responsive web apps, open-source projects, and full-stack systems**
 - 💬 Ask me about: **Web development, cybersecurity basics, UI/UX design, and ethical hacking**
 - ⚡ Fun fact: I enjoy **hacking simulations** and participating in CTF (Capture The Flag) challenges!
-- 📫 How to reach me: **lewinsmureithi@gmail.com** or **+254-112-876-340**
+- 📫 How to reach me: **mureithilewins@gmail.com** or **+254-112-876-340**
 
 ---
 
