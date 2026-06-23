@@ -1,6 +1,6 @@
 <!-- Header Section with Title and Bio -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Lewins+Mureithi+(King-luiz);a tech+Engineer;Full-Stack+Web+Developer;Cybersecurity+Enthusiast;AI+Explorer;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Lewins+Mureithi+(King-luiz);Tech+Engineer;Full-Stack+Web+Developer;Cybersecurity+Enthusiast;AI+Explorer;UI%2FUX+Designer" alt="Typing SVG" />
   <br>
   <p>
     <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-00FFAA?style=for-the-badge&logo=googlemaps&logoColor=white&color=black" />
